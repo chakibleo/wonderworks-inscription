@@ -20,7 +20,7 @@
 		<div class="main-agileinfo">
 			<div class="agileits-top">
 			<div class="container">
-    <h1 class="text-center mt-3">buletin d inscription </h1> <br>
+    <h1 class="text-center mt-3">registration for wonderworks academy </h1> <br>
     <p>  Année Universitaire : 2022 - 2023</p>
   <div class="container">
   <form name="Form" action="/store" method="post">
